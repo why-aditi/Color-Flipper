@@ -1,0 +1,33 @@
+.c{
+    justify-content: center;
+    color: white;
+}
+
+h2{
+    background-color: black;
+    border-radius: 10%;
+}
+
+nav{
+    display: grid;
+    align-items: center;
+}
+
+main {
+    background-color: #f1f5f8;
+    min-height: calc(100vh - 3rem);
+    display: grid;
+    place-items: center;
+}
+
+.color{
+    color: #f1f5f8;
+}
+
+.c{
+    text-align: center;
+}
+
+h2{
+    border-radius: 50px;
+}
